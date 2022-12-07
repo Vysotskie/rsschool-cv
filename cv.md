@@ -14,6 +14,56 @@
 ### Skills
 ###### HTML, CSS, JS, Figma, Github, VSCode
 ---
-
 ### Code examples
-[codepen] [https://codepen.io/vysotskie/pen/KKZOxvR]
+```html
+<body>
+ <div class="conteiner">
+  <div class="content">
+   <header class="header">
+    <h1 class="title">Transitions and Animations</h1>
+  
+    <nav class="nav">   
+     <ul class="navigation">
+      <li><button class="button">About</button></li>
+      <li><button class="button">Content</button></li>
+      <li><button class="button">News</button></li>
+      <li><button class="button">Contact</button></li>
+      <li><button class="button">More</button></li>
+     </ul>
+    </nav>
+   </header>
+  
+   <main class="main">
+    <section class="section">
+     <div class="block">News 1</div>
+     <div class="block">News 2</div>
+     <div class="block">News 3</div>
+     <div class="block">News 4</div>
+     <div class="block">News 5</div>
+     <div class="block">News 6</div>
+     <div class="block">News 7</div>
+     <div class="block">News 8</div>
+     <div class="block">News 9</div>
+     <div class="block">News 10</div>
+    </section>
+
+    <article class="animation">
+     <div class="child_animation"></div>
+    </article>
+   </main>
+  </div>
+ </div>
+</body>
+```
+---
+### Work experience
+######My projects
+* https://github.com/Vysotskie/final-work.git
+* https://github.com/Vysotskie/my-project.git
+---
+## Education
+* Belarusian National Technical University - 2005-2011
+* IT Academy feb 2022 - oct 2022
+---
+## Language
+###### English level - A2
