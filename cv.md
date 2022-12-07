@@ -14,5 +14,6 @@
 ### Skills
 ###### HTML, CSS, JS, Figma, Github, VSCode
 ---
+
 ### Code examples
 [codepen] [https://codepen.io/vysotskie/pen/KKZOxvR]
