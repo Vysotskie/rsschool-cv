@@ -3,3 +3,13 @@
  padding: 0;
  margin: 0;
 }
+
+.conteiner {
+ width: 1420px;
+ margin: 0, auto;
+ padding: 50px;
+}
+
+.photo {
+ width: 150px;
+}
