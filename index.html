@@ -4,7 +4,110 @@
  <meta charset="UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>Main page</title>
+ <link rel="stylesheet" href="/style.css">
+ <title>CV A.V. Vysotskaya</title>
 </head>
-<body></body>
+<body>
+ <div class="conteiner">
+ <header class="header">
+  <nav class="navigation">
+   <ul class="nav">
+    <li><a href="#Contacts">Contacts</a></li>
+    <li><a href="#Summary">Summary</a></li>
+    <li><a href="#Skills">Skills</a></li>
+    <li><a href="#Code">Code</a></li>
+    <li><a href="#Courses">Courses</a></li>
+    <li><a href="#Education">Education</a></li>
+    <li><a href="#English">English</a></li>
+   </ul>
+  </nav>  
+ </header>
+ 
+ <main>
+  <div class="content">
+   <div class="photo">
+    <div>
+     <img class="img" src="/assets/photo.jpg" alt="photo">
+    </div> 
+   <div class="name">
+    <h1>Anastasiya Vysotskaya</h1>
+    <h2>Junior Front-ent Developer</h2>
+   </div> 
+  </div>
+
+  <hr>
+
+  <div class="aboutme">
+   <div class="item">
+    <h3><a name="Contacts">Contacts</a></h3>
+    <ul>
+     <li>Minsk (Belarus) - remote</li>
+     <li>+375 44 786 89 47</li>
+     <li><a href="mailto:anastasiya_knizh@mail.ru">Email</a></li>
+     <li><a href="https://www.linkedin.com/in/anastasiyavysotskaya">linkedin</a></li>
+    </ul>
+   </div>
+   
+   <div class="item">
+    <h3><a name="Summary">Summary</a></h3>
+    <p>I am always looking to learn new information. I study rs school. I quickly find common ground with the new team. I can concentrate on tasks.</p>
+   </div>
+
+   <div class="item">
+    <h3>
+    <a name="Skills">Skills</a></h3>
+    <ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>JavaScript</li>
+     <li>Figma</li>
+     <li>Github</li>
+     <li>VSCode</li>
+    </ul>
+   </div>
+   
+   <div class="item">
+    <h3><a name="Code">Code examples</a></h3>
+    <pre>
+     <code>function checkParent (src, dest) {<Br>
+     while (src != null) {<Br>
+       if (src.tagName == dest) return src<Br>
+        src = src.parentElement<Br>
+     } return null<Br>
+    }
+     </code>
+    </pre>
+   </div>
+
+   <div class="item">
+    <h3><a name="Courses">Courses</a></h3>
+    <ul>
+     <li>IT-Academy Website development html css js</li>
+     <li>IT-Academy Development of web applications on js</li>
+     <li>RS School JS/FE Pre-School 2022Q4</li>
+    </ul>
+   </div>
+   
+   <div class="item">
+    <h3><a name="Education">Education</a></h3>
+    <p>Belarusian National Technical University - 2005-2011</p>
+   </div>
+
+   <div class="item">
+    <h3><a name="English">English</a></h3>
+    <p>B1 - Intermediate</p>
+   </div>
+  </div>
+  </div>
+
+ </main>
+
+ <footer class="footer">
+  <div>
+   <img src="/assets/rs_school_js.svg" alt="logo">
+   <a href="https://rs.school/js/">The Rolling Scopes</a>
+  </div>
+ </footer>
+ </div>
+</body>
 </html>
