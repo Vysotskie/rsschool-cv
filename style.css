@@ -11,5 +11,5 @@
 }
 
 .photo {
- width: 150px;
+ display: flex;
 }
