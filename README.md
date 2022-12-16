@@ -1,4 +1,2 @@
-# rsschool-cv
-[ссылка] (https://github.com/Vysotskie/rsschool-cv.git)
-# rsschool-cv-html
-[link] (https://github.com/Vysotskie/rsschool-cv.git)
+https://Vysotskie.github.io/rsschool-cv/cv
+https://Vysotskie.github.io/rsschool-cv/
